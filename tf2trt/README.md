@@ -1,4 +1,7 @@
-Source: https://docs.nvidia.com/deeplearning/frameworks/tf-trt-user-guide/index.html#using-savedmodel
+Source: 
+1. [Build TF-TRT from TF saved model](https://docs.nvidia.com/deeplearning/frameworks/tf-trt-user-guide/index.html#using-savedmodel)
+2. [Load, run & display result ref#1](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10/blob/master/Object_detection_image.py)
+3. [Load, run & display result ref#2](https://github.com/tensorflow/tensorrt/blob/r1.14+/tftrt/examples/object_detection/object_detection.py)
 
 Firstly, modify & run `tftrt_savedmodel.py` to convert tf saved model to tftrt engine.
 
