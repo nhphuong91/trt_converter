@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "/home/nhphuong/venv_hub/trtUFFSSD_venv/bin/python3.6",
+    "jupyter.jupyterServerType": "local",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Args": [
+        "--ignore = E501,F403,F401,E722,E231,W293,E251,E201,E202,E241,E128,E211,E225,E226,E261,E303,F405"
+    ],
+    "python.formatting.autopep8Args": []
+}
