@@ -8,7 +8,7 @@ Script for converting to onnx model is taken from [here](https://github.com/ling
 python export_onnx.py --prefix="<prefix to load model>"
 ```
 
-Ex: model locates in `./model-r100-ii/`, then <prefix to load model> is `./model-r100-ii/model`
+Ex: model locates in `./model-r100-ii/`, then `<prefix to load model>` is `./model-r100-ii/model`
 
 ***ATTENTION:*** preprocess the input image to the same size set in `input_shape` before inference
 
